@@ -48,8 +48,10 @@
 
 ## Stats:
 
-#'  Mixed-effects models
 #'  Logistic Regression
+#'  Multivariate Regression
+#'  Non-linear Regression
+#'  Mixed-effects models
 #'  Factor Analysis
 #'  Permutation Tests & Simulations
 #'  Logisitic Regression
