@@ -54,7 +54,6 @@
 #'  Mixed-effects models
 #'  Mediation Analysis
 #'  Factor Analysis
-#'  Logisitic Regression
 #'  Cluster Analysis
 #'  Multidimensional Scaling
 #'  PCA
@@ -234,7 +233,7 @@ pga[1,]
 pga[1:3,]
 
 #columns come after
-pga[,1,]
+pga[,1]
 pga[,1:3]
 pga[c(1:3)] #but you can do it this way which is useful sometimes
 
