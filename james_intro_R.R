@@ -52,13 +52,13 @@
 #'  Multivariate Regression
 #'  Non-linear Regression
 #'  Mixed-effects models
+#'  Mediation Analysis
 #'  Factor Analysis
-#'  Permutation Tests & Simulations
 #'  Logisitic Regression
 #'  Cluster Analysis
 #'  Multidimensional Scaling
 #'  PCA
-#'  Mediation Analysis
+#'  Permutation Tests & Simulations
 #'  etc.
 
 
